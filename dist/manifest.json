@@ -1,0 +1,22 @@
+{
+  "short_name": "KM",
+  "name": "Kamar Medis",
+  "description": "Kamar Medis App React",
+  "icons": [
+    {
+      "src": "/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "theme_color": "#00bcd4",
+  "orientation": "portrait",
+  "background_color": "#00bcd4",
+  "display": "standalone"
+}
